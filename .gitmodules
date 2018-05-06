@@ -16,3 +16,6 @@
 [submodule "themes/berlin"]
 	path = themes/berlin
 	url = git://github.com/omeka/theme-berlin.git
+[submodule "plugins/Neatline"]
+	path = plugins/Neatline
+	url = https://github.com/scholarslab/Neatline.git
