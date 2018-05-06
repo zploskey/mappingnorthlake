@@ -19,3 +19,6 @@
 [submodule "plugins/Neatline"]
 	path = plugins/Neatline
 	url = https://github.com/scholarslab/Neatline.git
+[submodule "plugins/NeatlineSimile"]
+	path = plugins/NeatlineSimile
+	url = https://github.com/scholarslab/NeatlineSimile.git
