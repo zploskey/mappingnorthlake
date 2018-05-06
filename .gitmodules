@@ -28,3 +28,6 @@
 [submodule "plugins/NeatlineText"]
 	path = plugins/NeatlineText
 	url = https://github.com/scholarslab/NeatlineText.git
+[submodule "themes/avantgarde"]
+	path = themes/avantgarde
+	url = git@github.com:zploskey/theme-mappingnorthlake.git
