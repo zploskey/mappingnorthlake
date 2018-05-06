@@ -25,3 +25,6 @@
 [submodule "plugins/NeatlineWaypoints"]
 	path = plugins/NeatlineWaypoints
 	url = https://github.com/scholarslab/NeatlineWaypoints.git
+[submodule "plugins/NeatlineText"]
+	path = plugins/NeatlineText
+	url = https://github.com/scholarslab/NeatlineText.git
