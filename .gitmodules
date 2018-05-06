@@ -22,3 +22,6 @@
 [submodule "plugins/NeatlineSimile"]
 	path = plugins/NeatlineSimile
 	url = https://github.com/scholarslab/NeatlineSimile.git
+[submodule "plugins/NeatlineWaypoints"]
+	path = plugins/NeatlineWaypoints
+	url = https://github.com/scholarslab/NeatlineWaypoints.git
