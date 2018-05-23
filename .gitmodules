@@ -31,3 +31,6 @@
 [submodule "themes/avantgarde"]
 	path = themes/avantgarde
 	url = git@github.com:zploskey/theme-mappingnorthlake.git
+[submodule "plugins/MappingNorthlake"]
+	path = plugins/MappingNorthlake
+	url = https://github.com/zploskey/plugin-MappingNorthlake.git
