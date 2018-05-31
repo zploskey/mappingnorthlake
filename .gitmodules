@@ -34,3 +34,6 @@
 [submodule "plugins/MappingNorthlake"]
 	path = plugins/MappingNorthlake
 	url = https://github.com/zploskey/plugin-MappingNorthlake.git
+[submodule "plugins/NeatlineCoverImage"]
+	path = plugins/NeatlineCoverImage
+	url = https://github.com/zploskey/NeatlineCoverImage.git
